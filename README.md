@@ -1,6 +1,6 @@
-<h1>Hi, I'm Andreia! <br/><a href="https://www.linkedin.com/in/andreiasalesribeiro">QA Enthusiast</a> | <a href="https://www.linkedin.com/in/andreiasalesribeiro"> Tech Support Engineer </a></h1>
+<h1>Hi, I'm Andreia! <br/><a href="https://www.linkedin.com/in/andreiasalesribeiro">Web Development and QA Enthusiast</a> | <a href="https://www.linkedin.com/in/andreiasalesribeiro"> Tech Support Engineer </a></h1>
 
-<b> On this GitHub, you’ll find projects that reflect my growing skills in QA, including automation scripts, test case scenarios, and exploratory testing exercises. I’m eager to connect with other professionals who share a commitment to delivering high-quality software. Feel free to explore my repositories, and let’s collaborate on ensuring software excellence! </b>
+<b> On this GitHub, you’ll find projects that reflect my growing skills in Web Development and Quality Assurance, including web application apps, automation scripts, test case scenarios, and exploratory testing exercises. I’m eager to connect with other professionals who share a commitment to delivering high-quality software. Feel free to explore my repositories, and let’s collaborate to ensure software excellence! </b>
 
 <h2>👨‍💻 Web Development Projects:</h2>
 
