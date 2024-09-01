@@ -5,8 +5,12 @@
 
 <h2>👨‍💻 Web Development Projects:</h2>
 
+
+- <b> My Portfolio/Web App </b>
+- [Web Apps and UI Projects](https://github.com/Andreiasribeiro/Portfolio)
+ 
 - <b> MERN Stack Web App  (MongoDB, Express, React and NodeJS ) </b>
-  - [JavaScript Garage Booking Web App](https://github.com/Andreiasribeiro/Garage_Booking_App)
+- [JavaScript Garage Booking Web App](https://github.com/Andreiasribeiro/Garage_Booking_App)
  
 <h2>🎓 Education </h2>
 
