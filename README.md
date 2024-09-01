@@ -9,7 +9,10 @@
 
 <h2>👨‍💻 Certificates</h2>
 
-  - [Microsoft Certified: Azure Fundamental](https://github.com/Andreiasribeiro/Andreiasribeiro)
+  - [ProgrammingbFoundations: Software Testing/QA](https://www.linkedin.com/learning/certificates/aad38d69425b3be61e2e95efbb9ffd979eb3a72031cb9c358818f2069b52730d)
+  - [Learning Selenium](https://www.linkedin.com/learning/certificates/e544b06769442bb8c67d37033f640bacffdcc775b3b466d7dadceb3555ae2108?u=71624316)
+  - [Microsoft Certified: Azure Fundamental](https://www.credly.com/badges/de961bad-6d55-4258-b0d3-a76d892e1ecb/linked_in_profile)
+  - [See more](https://www.linkedin.com/in/andreiasalesribeiro/details/certifications/)
 
 <h2>📺 YouTube Videos</h2>
 
