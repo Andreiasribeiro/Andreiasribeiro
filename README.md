@@ -5,7 +5,7 @@
 <h2>👨‍💻 Web Development Projects:</h2>
 
 - <b> MERN Stack Web App  (MongoDB, Express, React and NodeJS ) </b>
-  - [JavaScript Garage Booking Web App](https://github.com/Andreiasribeiro/Andreiasribeiro)
+  - [JavaScript Garage Booking Web App](https://github.com/Andreiasribeiro/Garage_Booking_App)
 
 <h2>👨‍💻 Certificates</h2>
 
