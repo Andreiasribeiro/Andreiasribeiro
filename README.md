@@ -1,4 +1,4 @@
-<h1>Hi, I'm Andreia! <br/><a href="https://www.andreiasribeiro.com/">QA Enthusiast</a> | <a href="https://www.andreiasribeiro.com/">Web Developer</a>| <a href="https://www.andreiasribeiro.com/"> Tech Support Engineer </a></h1>
+<h1>Hi, I'm Andreia! <br/><a href="https://www.andreiasribeiro.com/">Web Developer and QA Enthusiast</a> | <a href="https://www.andreiasribeiro.com/"> Tech Support Engineer </a></h1>
 
 <h2>👨‍💻 Web Development Projects:</h2>
 
