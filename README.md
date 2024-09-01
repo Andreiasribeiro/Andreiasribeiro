@@ -1,4 +1,5 @@
-<h1>Hi, I'm Andreia! <br/><a href="https://www.linkedin.com/in/andreiasalesribeiro">Web Development and QA Enthusiast</a> | <a href="https://www.linkedin.com/in/andreiasalesribeiro"> Tech Support Engineer </a></h1>
+<h1>Hi, I'm Andreia!</h1> 
+<h2><a href="https://www.linkedin.com/in/andreiasalesribeiro"> Web Development and QA Enthusiast</a> | <a href="https://www.linkedin.com/in/andreiasalesribeiro"> Tech Support Engineer </a></h2>
 
 <b> On this GitHub, you’ll find projects that reflect my growing skills in Web Development and Quality Assurance, including web application apps, automation scripts, test case scenarios, and exploratory testing exercises. I’m eager to connect with other professionals who share a commitment to delivering high-quality software. Feel free to explore my repositories, and let’s collaborate to ensure software excellence! </b>
 
@@ -6,6 +7,13 @@
 
 - <b> MERN Stack Web App  (MongoDB, Express, React and NodeJS ) </b>
   - [JavaScript Garage Booking Web App](https://github.com/Andreiasribeiro/Garage_Booking_App)
+ 
+<h2>🎓 Education </h2>
+
+  - <b> Higher Diploma in Computer Science </b>
+  - [CCT College Dublin - Ireland](https://www.linkedin.com/school/college-of-computer-training-cct-/posts/?feedView=all)
+  -  <b> Bachelor's Degree in Industrial Design </b>
+  - [Feredal University of Bahia- Brazil](https://www.linkedin.com/school/ufba/posts/?feedView=all)
 
 <h2>👨‍💻 Certificates</h2>
 
@@ -42,4 +50,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+--> 
