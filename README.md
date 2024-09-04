@@ -3,15 +3,30 @@
 
 <b> On this GitHub, you’ll find projects that reflect my growing skills in Web Development and Quality Assurance, including web application apps, automation scripts, test case scenarios, and exploratory testing exercises. I’m eager to connect with other professionals who share a commitment to delivering high-quality software. Feel free to explore my repositories, and let’s collaborate to ensure software excellence! </b>
 
-<h2>👨‍💻 Web Development Projects:</h2>
 
+<h2>👩🏻‍💻Web Development Projects:</h2>
 
 - <b> My Portfolio/Web App </b>
 - [Web Apps and UI Projects](https://github.com/Andreiasribeiro/Portfolio)
  
 - <b> MERN Stack Web App  (MongoDB, Express, React and NodeJS ) </b>
 - [JavaScript Garage Booking Web App](https://github.com/Andreiasribeiro/Garage_Booking_App)
- 
+
+<h2>👩🏻‍💻QA automation Projects:</h2>
+  
+- <b> Web Application Testing with Selenium </b>
+- [Automate the testing of a sample e-commerce website](https://github.com/Andreiasribeiro/Garage_Booking_Ap)
+
+- <b> API Testing with Postman and Newman </b>
+- [Automated tests for a RESTful API using Postman](https://github.com/Andreiasribeiro/Garage_Booking_Ap)
+
+- <b> End-to-End Testing with Cypress </b>
+- [End-to-end test suite for a single-page application (SPA)](https://github.com/Andreiasribeiro/Garage_Booking_Ap)
+  
+- <b> CI/CD Pipeline Automation </b>
+- [CI/CD pipeline that automatically tests, builds, and deploys a sample project](https://github.com/Andreiasribeiro/Garage_Booking_Ap)
+
+
 <h2>🎓 Education </h2>
 
   - <b> Higher Diploma in Computer Science </b>
