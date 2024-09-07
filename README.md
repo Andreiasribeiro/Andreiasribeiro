@@ -34,20 +34,55 @@
   -  <b> Bachelor's Degree in Industrial Design </b>
   - [Feredal University of Bahia- Brazil](https://www.linkedin.com/school/ufba/posts/?feedView=all)
 
-<h2>🛡️ Certificates</h2>
+<h2>🛡️ Courses & Certificates</h2>
 
-  - [ProgrammingbFoundations: Software Testing/QA](https://www.linkedin.com/learning/certificates/aad38d69425b3be61e2e95efbb9ffd979eb3a72031cb9c358818f2069b52730d)
-  - [Learning Selenium](https://www.linkedin.com/learning/certificates/e544b06769442bb8c67d37033f640bacffdcc775b3b466d7dadceb3555ae2108?u=71624316)
-  - [Microsoft Certified: Azure Fundamental](https://www.credly.com/badges/de961bad-6d55-4258-b0d3-a76d892e1ecb/linked_in_profile)
-  - [See more](https://www.linkedin.com/in/andreiasalesribeiro/details/certifications/)
+ ✅ [Programming Foundations: Software Testing/QA](https://www.linkedin.com/learning/certificates/aad38d69425b3be61e2e95efbb9ffd979eb3a72031cb9c358818f2069b52730d) 
+     <p> Software testing, Software Quality Assurance</p> 
+ ✅ [Learning Selenium](https://www.linkedin.com/learning/certificates/e544b06769442bb8c67d37033f640bacffdcc775b3b466d7dadceb3555ae2108?u=71624316) 
+     <p> Selenium, Test Autometion</p> 
+ ✅ [Microsoft Certified: Azure Fundamental](https://www.credly.com/badges/de961bad-6d55-4258-b0d3-a76d892e1ecb/linked_in_profile) 
+     <p> Azure, cloud Data, Cloud Networking, Cloud Security, clous Services, Cloud Storage, Virtualization</p> 
+  ➾ [See more](https://www.linkedin.com/in/andreiasalesribeiro/details/certifications/)
 
+<h2> 🛠 Tools </h2>
+
+  - <b> Jira </b>
+  - <b> Selenium </b>
+  - <b> Visual Studio</b>
+  - <b> MySQL </b>
+  - <b> GitHub </b>
+  - <b> Postman </b>
+  - <b> Slack </b>
+  - <b> Teams </b>
+  - <b> Zoom </b>
+  
+
+<h2>🪛 Tech Skills </h2>
+
+  - <b> knowledge of testing procedures and the creation of test documentation </b>
+  - <b> DevTools knowledge </b>
+  - <b> REST API testing </b>
+  - <b> HTML/CSS </b>
+  - <b> JavaScript </b>
+  - <b> Understanding of different delivery methodologies (e.g., agile and waterfall) </b>
+
+<h2> 💎 Soft Skills </h2>
+
+ - <b> Precision and attention to quality </b>
+ - <b> Communication and teamwork skills </b>
+ - <b> Critical thinking </b>
+ - <b> Ability to learn new tools, systems and processes quickly </b>
+ - <b> Problem solving and analytical skills </b>
+ - <b> Desire for self-development </b>
+ - <b> Well-organized </b>
+ 
 <h2>🎥 YouTube Videos</h2>
 
 - [Garage Booking Web App](https://www.youtube.com/watch?v=USOe2FrA8Bc)
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="Andreia | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="Andreia | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube] 
 [<img align="left" alt="Andreia | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Andreia | Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />](mailto:asribeirodesign@gmailcom)
 
