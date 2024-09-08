@@ -32,7 +32,7 @@
   - <b> Higher Diploma in Computer Science </b>
   - [CCT College Dublin - Ireland](https://www.linkedin.com/school/college-of-computer-training-cct-/posts/?feedView=all)
   -  <b> Bachelor's Degree in Industrial Design </b>
-  - [Feredal University of Bahia- Brazil](https://www.linkedin.com/school/ufba/posts/?feedView=all)
+  - [Federal University of Bahia- Brazil](https://www.linkedin.com/school/ufba/posts/?feedView=all)
 
 <h2>🛡️ Courses & Certificates</h2>
 
