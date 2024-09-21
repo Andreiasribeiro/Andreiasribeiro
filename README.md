@@ -12,7 +12,8 @@
 - <b> MERN Stack Web App  (MongoDB, Express, React and NodeJS ) </b>
 - [JavaScript Garage Booking Web App](https://github.com/Andreiasribeiro/Garage_Booking_App)
 
-<h2>👩🏻‍💻QA automation Projects:</h2>
+<h2>👩🏻‍💻[Uploading qa.jpeg…]()
+QA automation Projects:</h2>
   
 - <b> Web Application Testing with Selenium </b>
 - [Automate the testing of a sample e-commerce website](https://github.com/Andreiasribeiro/Garage_Booking_Ap)
