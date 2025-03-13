@@ -14,7 +14,7 @@
 
 <h2>👩🏻‍💻🔎QA Projects:</h2>
   
-- <b> E-Commerce Platform Sandbox </b>
+- <b> E-Commerce Platform Sandbox (Exercise sample) </b>
 - [Test Plan](https://docs.google.com/document/d/e/2PACX-1vTebQTl27p2UcU567RseQ-FLwhpUq6mMXiixfAevATqciuAerRx1IsxJkSGRyZbbc2xNz4QrlJQHMjA/pub)
  
 - [Test Cases](https://docs.google.com/document/d/e/2PACX-1vREEL29ZiBMoT9iXeAdpNE9vlrPy5SvpWcmPeSk3JuRmQfzPrdjFo0RH27BbIqFBh9ZKvrfYS0LIWQD/pub)
