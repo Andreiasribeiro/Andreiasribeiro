@@ -12,19 +12,16 @@
 - <b> MERN Stack Web App  (MongoDB, Express, React and NodeJS ) </b>
 - [JavaScript Garage Booking Web App](https://github.com/Andreiasribeiro/Garage_Booking_App)
 
-<h2>👩🏻‍💻🔎QA automation Projects:</h2>
+<h2>👩🏻‍💻🔎QA Projects:</h2>
   
-- <b> Web Application Testing with Selenium </b>
-- [Automate the testing of a sample e-commerce website](https://github.com/Andreiasribeiro/Garage_Booking_Ap)
-
-- <b> API Testing with Postman and Newman </b>
-- [Automated tests for a RESTful API using Postman](https://github.com/Andreiasribeiro/Garage_Booking_Ap)
-
-- <b> End-to-End Testing with Cypress </b>
-- [End-to-end test suite for a single-page application (SPA)](https://github.com/Andreiasribeiro/Garage_Booking_Ap)
+- <b> E-Commerce Platform Sandbox </b>
+- [Test Plan](https://docs.google.com/document/d/e/2PACX-1vREEL29ZiBMoT9iXeAdpNE9vlrPy5SvpWcmPeSk3JuRmQfzPrdjFo0RH27BbIqFBh9ZKvrfYS0LIWQD/pub))
   
-- <b> CI/CD Pipeline Automation </b>
-- [CI/CD pipeline that automatically tests, builds, and deploys a sample project](https://github.com/Andreiasribeiro/Garage_Booking_Ap)
+- [Test Cases](https://docs.google.com/document/d/e/2PACX-1vTebQTl27p2UcU567RseQ-FLwhpUq6mMXiixfAevATqciuAerRx1IsxJkSGRyZbbc2xNz4QrlJQHMjA/pub)
+
+- [Test Report](https://docs.google.com/document/d/e/2PACX-1vTWvtD-5blwjof_fKuaPQoHST0Vs2AeUO_3wLPe0GKgqVypQ2k9aAMNpn9yUmKc-8irfGK5TrgJuCLQ/pub)
+  
+- [Bug Report](https://docs.google.com/spreadsheets/d/1N0UNluPKfuGABzAiERWwAnW2OD1mKbVmq3zWGuOAJ8Q/edit?gid=0#gid=0)
 
 
 <h2>🎓 Education </h2>
