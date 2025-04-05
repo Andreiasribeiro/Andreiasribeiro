@@ -4,7 +4,7 @@
 <b> On this GitHub, you’ll find projects that reflect my growing skills in Web Development and Quality Assurance, including web application apps, automation scripts, test case scenarios, and exploratory testing exercises. I’m eager to connect with other professionals who share a commitment to delivering high-quality software. Feel free to explore my repositories, and let’s collaborate to ensure software excellence! </b>
 
  <b> 👀 See my profile in data: 📊 </b>
-[My Metabase dashboard](https://1drv.ms/b/c/cf17f682b336d7a9/EUjlWMmIbJhFsI-EzWcJsdcBDfxHVW6wLfhDDhbgynnsKQ?e=tGzxaa)
+[My Metabase dashboard](https://1drv.ms/b/c/cf17f682b336d7a9/EUjlWMmIbJhFsI-EzWcJsdcBDfxHVW6wLfhDDhbgynnsKQ?e=dHD9Us)
   
 <h2>👩🏻‍💻🌐Web Development Projects:</h2>
 
