@@ -72,48 +72,25 @@ Malcolm X </h4>
 • <b>TestRail</b> (test management)<br>
 • <b>ISTQB Foundation</b> (certification in progress)
 
-
-<h2> 🛠 Tools </h2>
-
-  - <b> Jira </b>
-  - <b> Postman </b>
-  - <b> Selenium </b>
-  - <b> Visual Studio</b>
-  - <b> SQL </b>
-  - <b> Slack </b>
-  - <b> Teams </b>
-  - <b> Zoom </b>
-  
-
-<h2>🪛 Tech Skills </h2>
-
-  - <b> knowledge of testing procedures and the creation of test documentation </b>
-  - <b> DevTools knowledge </b>
-  - <b> REST API testing </b>
-  - <b> HTML/CSS </b>
-  - <b> JavaScript </b>
-  - <b> Understanding of different delivery methodologies (e.g., agile and waterfall) </b>
-
 <h2> 💎 Soft Skills </h2>
 
- - <b> Precision and attention to quality </b>
- - <b> Communication and teamwork skills </b>
- - <b> Critical thinking </b>
- - <b> Ability to learn new tools, systems and processes quickly </b>
- - <b> Problem solving and analytical skills </b>
- - <b> Desire for self-development </b>
- - <b> Well-organized </b>
+• <b> Precision and attention to quality </b>
+• <b> Communication and teamwork skills </b>
+• <b> Critical thinking </b>
+• <b> Ability to learn new tools, systems and processes quickly </b>
+• <b> Problem solving and analytical skills </b>
+• <b> Desire for self-development </b>
+• <b> Well-organized </b>
+• <b>Customer focus and user empathy</b>
  
 <h2>🎥 YouTube Videos</h2>
 
 - [Garage Booking Web App](https://www.youtube.com/watch?v=USOe2FrA8Bc)
 
 <h2> 🤳 Connect with me:</h2>
-
-[<img align="left" alt="Andreia | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube] 
+ 
 [<img align="left" alt="Andreia | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Andreia | Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />](mailto:asribeirodesign@gmailcom)
-
+[<img align="left" alt="Andreia | Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />](mailto:asalesribeiro@icloud.com)
 
 
 [youtube]: https://www.youtube.com/watch?v=USOe2FrA8Bc
@@ -121,15 +98,4 @@ Malcolm X </h4>
 
 <!--
 **Andreiasribeiro/Andreiasribeiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 --> 
