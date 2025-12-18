@@ -1,5 +1,5 @@
 <h1>Hi, I'm Andreia!</h1> 
-<h2><a href="https://www.linkedin.com/in/andreiasalesribeiro"> QA Engineer and Web Development Enthusiast</a> | <a href="https://www.linkedin.com/in/andreiasalesribeiro"> | Former Tech Support Engineer </a></h2>
+<h2><a href="https://www.linkedin.com/in/andreiasalesribeiro"> QA Engineer and Web Development Enthusiast</a> <a href="https://www.linkedin.com/in/andreiasalesribeiro"> | Former Tech Support Engineer </a></h2>
 
 <b> Here you'll find a collection of projects showcasing my journey in Software Quality Assurance and Web Development. My background in technical support and product design shaped my user-focused approach to QA, emphasising clarity, reproducibility, and impact. I'm passionate about ensuring software reliability and great user experiences through structured testing and continuous learning. I'm currently deepening my QA skills through ISTQB CTFLcertification and hands-on crowdtesting practice. Let's connect and collaborate toward building high-quality, user-centred software. </b>
 
