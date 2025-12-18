@@ -43,14 +43,43 @@ Malcolm X </h4>
      <p> Azure, cloud Data, Cloud Networking, Cloud Security, clous Services, Cloud Storage, Virtualization</p> 
   ➾ [See more](https://www.linkedin.com/in/andreiasalesribeiro/details/certifications/)
 
+<h2>🛠️ QA & Testing Tools</h2>
+• <b>Test Management:</b> Jira<br>
+• <b>API Testing:</b> Postman<br>
+
+• <b>Version Control:</b> GitHub<br>
+• <b>Database:</b> SQL (MySQL)<br>
+• <b>Browser DevTools</b><br>
+• <b>IDE:</b> Visual Studio Code
+
+<h2>🪛 Technical Skills</h2>
+• <b>Test Documentation:</b> Test cases, bug reports, QA plans<br>
+• <b>API Testing:</b> REST API validation & integration testing<br>
+• <b>Web Technologies:</b> HTML, CSS, JavaScript<br>
+• <b>Testing Methodologies:</b> Agile (Scrum), Waterfall<br>
+• <b>Testing Types:</b> Functional, Regression, Smoke, Usability
+
+<h2>💎 Soft Skills</h2>
+• <b>Analytical Thinking & Problem-Solving</b><br>
+• <b>Attention to Detail & Quality Focus</b><br>
+• <b>Cross-Functional Collaboration</b><br>
+• <b>Clear Communication (Technical & Non-Technical)</b><br>
+• <b>Fast Learner & Adaptability</b><br>
+• <b>Self-Management & Organization</b>
+
+<h2>📚 Currently Exploring</h2>
+• <b>Selenium</b> (test automation)<br>
+• <b>TestRail</b> (test management)<br>
+• <b>ISTQB Foundation</b> (certification in progress)
+
+
 <h2> 🛠 Tools </h2>
 
   - <b> Jira </b>
+  - <b> Postman </b>
   - <b> Selenium </b>
   - <b> Visual Studio</b>
-  - <b> MySQL </b>
-  - <b> GitHub </b>
-  - <b> Postman </b>
+  - <b> SQL </b>
   - <b> Slack </b>
   - <b> Teams </b>
   - <b> Zoom </b>
