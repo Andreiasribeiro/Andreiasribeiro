@@ -1,10 +1,8 @@
 <h1>Hi, I'm Andreia!</h1> 
-<h2><a href="https://www.linkedin.com/in/andreiasalesribeiro"> Web Development and QA Enthusiast</a> | <a href="https://www.linkedin.com/in/andreiasalesribeiro"> Tech Support Engineer </a></h2>
+<h2><a href="https://www.linkedin.com/in/andreiasalesribeiro"> QA Engineer and Web Development Enthusiast</a> | <a href="https://www.linkedin.com/in/andreiasalesribeiro"> | Former Tech Support Engineer </a></h2>
 
-<b> On this GitHub, you’ll find projects that reflect my growing skills in Web Development and Quality Assurance, including web application apps, automation scripts, test case scenarios, and exploratory testing exercises. I’m eager to connect with other professionals who share a commitment to delivering high-quality software. Feel free to explore my repositories, and let’s collaborate to ensure software excellence! </b>
+<b> Here you'll find a collection of projects showcasing my journey in Software Quality Assurance and Web Development. My background in technical support and product design shaped my user-focused approach to QA, emphasising clarity, reproducibility, and impact. I'm passionate about ensuring software reliability and great user experiences through structured testing and continuous learning. I'm currently deepening my QA skills through ISTQB CTFLcertification and hands-on crowdtesting practice. Let's connect and collaborate toward building high-quality, user-centred software. </b>
 
- <b> 👀 Check out insights about me in data: 📊 </b>
-[My Metabase dashboard](https://1drv.ms/b/c/cf17f682b336d7a9/EUjlWMmIbJhFsI-EzWcJsdcBDfxHVW6wLfhDDhbgynnsKQ?e=dHD9Us)
   
 <h2>👩🏻‍💻🌐Web Development Projects:</h2>
 
