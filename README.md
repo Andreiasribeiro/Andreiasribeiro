@@ -3,15 +3,6 @@
 
 <b> Here you'll find a collection of projects showcasing my journey in Software Quality Assurance and Web Development. My background in technical support and product design shaped my user-focused approach to QA, emphasising clarity, reproducibility, and impact. I'm passionate about ensuring software reliability and great user experiences through structured testing and continuous learning. I'm currently deepening my QA skills through ISTQB CTFLcertification and hands-on crowdtesting practice. Let's connect and collaborate toward building high-quality, user-centred software. </b>
 
-  
-<h2>👩🏻‍💻🌐Web Development Projects:</h2>
-
-- <b> My Portfolio/Web App </b>
-- [Web Apps and UI Projects](https://github.com/Andreiasribeiro/Portfolio)
- 
-- <b> MERN Stack Web App  (MongoDB, Express, React and NodeJS ) </b>
-- [JavaScript Garage Booking Web App](https://github.com/Andreiasribeiro/Garage_Booking_App)
-
 <h2>👩🏻‍💻🔎QA Projects:</h2>
   
 - <b> E-Commerce Platform Sandbox (Exercise sample) </b>
@@ -22,6 +13,14 @@
 - [Test Report](https://docs.google.com/document/d/e/2PACX-1vTWvtD-5blwjof_fKuaPQoHST0Vs2AeUO_3wLPe0GKgqVypQ2k9aAMNpn9yUmKc-8irfGK5TrgJuCLQ/pub)
   
 - [Bug Report](https://docs.google.com/spreadsheets/d/1N0UNluPKfuGABzAiERWwAnW2OD1mKbVmq3zWGuOAJ8Q/edit?gid=0#gid=0)
+  
+<h2>👩🏻‍💻🌐Web Development Projects:</h2>
+
+- <b> My Portfolio/Web App </b>
+- [Web Apps and UI Projects](https://github.com/Andreiasribeiro/Portfolio)
+ 
+- <b> MERN Stack Web App  (MongoDB, Express, React and NodeJS ) </b>
+- [JavaScript Garage Booking Web App](https://github.com/Andreiasribeiro/Garage_Booking_App)
 
 
 <h2>🎓 Education </h2>
