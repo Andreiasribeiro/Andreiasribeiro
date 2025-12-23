@@ -3,7 +3,28 @@
 
 <b> Here you'll find a collection of projects showcasing my journey in Software Quality Assurance and Web Development. My background in technical support and product design shaped my user-focused approach to QA, emphasising clarity, reproducibility, and impact. I'm passionate about ensuring software reliability and great user experiences through structured testing and continuous learning. I'm currently deepening my QA skills through the ISTQB CTFL certification and hands-on crowdtesting practice. Let's connect and collaborate toward building high-quality, user-centred software. </b>
 
-<h2>👩🏻‍💻🔎QA Projects:</h2>
+<h2>👩🏻‍💻🔎QA Testing Experience</h2>
+
+<h4> Defect Investigation & Validation Testing </h4> 
+
+## QA Testing Experience
+
+### Defect Investigation & Validation Testing
+- **Regression Testing**: Verified patches and fixes didn't introduce new issues or break existing functionality
+- **Functional Validation**: Executed systematic testing of software solutions in controlled lab environments before customer release
+- **Bug Reproduction & Analysis**: Reproduced complex customer-reported issues, providing engineering with actionable bug reports
+
+### Quality Assurance Processes
+- **Defect Lifecycle Management**: Tracked issues from identification to resolution using JIRA
+- **Test Documentation**: Created detailed, reproducible test scenarios (steps, expected/actual results, logs)
+- **Quality Validation**: Ensured all fixes met quality standards before deployment
+
+### Customer-Centric Testing Approach
+- **Real-World Scenario Testing**: Based testing on actual customer use cases and reported issues
+- **Root Cause Analysis**: Investigated underlying causes of defects to ensure comprehensive fixes
+- **Pre-release Verification**: Conducted final validation in staging environments
+- 
+<h2>👩🏻‍💻🔎QA Projects</h2>
   
 - <b> E-Commerce Platform Sandbox (Exercise sample) </b>
 - [Test Plan](https://docs.google.com/document/d/e/2PACX-1vTebQTl27p2UcU567RseQ-FLwhpUq6mMXiixfAevATqciuAerRx1IsxJkSGRyZbbc2xNz4QrlJQHMjA/pub)
@@ -14,7 +35,7 @@
   
 - [Bug Report](https://docs.google.com/spreadsheets/d/1N0UNluPKfuGABzAiERWwAnW2OD1mKbVmq3zWGuOAJ8Q/edit?gid=0#gid=0)
   
-<h2>👩🏻‍💻🌐Web Development Projects:</h2>
+<h2>👩🏻‍💻🌐Web Development Projects</h2>
 
 - <b> My Portfolio/Web App </b>
 - [Web Apps and UI Projects](https://github.com/Andreiasribeiro/Portfolio)
