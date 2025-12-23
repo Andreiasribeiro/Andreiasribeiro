@@ -66,14 +66,14 @@ Malcolm X </h4>
 
 <h2> 💎 Soft Skills </h2>
 
-• <b> Precision and attention to quality </b>
-• <b> Communication and teamwork skills </b>
-• <b> Critical thinking </b>
-• <b> Ability to learn new tools, systems and processes quickly </b>
-• <b> Problem solving and analytical skills </b>
-• <b> Desire for self-development </b>
-• <b> Well-organized </b>
-• <b>Customer focus and user empathy</b>
+• <b> Precision and attention to quality </br>
+• <b> Communication and teamwork skills </br>
+• <b> Critical thinking </br>
+• <b> Ability to learn new tools, systems and processes quickly </br>
+• <b> Problem solving and analytical skills </br>
+• <b> Desire for self-development </br>
+• <b> Well-organized </br>
+• <b>Customer focus and user empathy</br>
  
 <h2>🎥 YouTube Videos</h2>
 
