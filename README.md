@@ -59,14 +59,6 @@ Malcolm X </h4>
 • <b>Testing Methodologies:</b> Agile (Scrum), Waterfall<br>
 • <b>Testing Types:</b> Functional, Regression, Smoke, Usability
 
-<h2>💎 Soft Skills</h2>
-• <b>Analytical Thinking & Problem-Solving</b><br>
-• <b>Attention to Detail & Quality Focus</b><br>
-• <b>Cross-Functional Collaboration</b><br>
-• <b>Clear Communication (Technical & Non-Technical)</b><br>
-• <b>Fast Learner & Adaptability</b><br>
-• <b>Self-Management & Organization</b>
-
 <h2>📚 Currently Exploring</h2>
 • <b>Selenium</b> (test automation)<br>
 • <b>TestRail</b> (test management)<br>
@@ -82,17 +74,6 @@ Malcolm X </h4>
 • <b> Desire for self-development </b>
 • <b> Well-organized </b>
 • <b>Customer focus and user empathy</b>
-
-<details>
-<summary><b>📚 Currently Exploring</b></summary>
-
-- **Selenium** (test automation)
-- **TestRail** (test management)
-- **ISTQB Foundation** (certification in progress)
-- **Advanced API Testing**
-- **Performance Testing**
-- **CI/CD Integration**
-</details>
  
 <h2>🎥 YouTube Videos</h2>
 
