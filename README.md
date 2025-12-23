@@ -82,6 +82,17 @@ Malcolm X </h4>
 • <b> Desire for self-development </b>
 • <b> Well-organized </b>
 • <b>Customer focus and user empathy</b>
+
+<details>
+<summary><b>📚 Currently Exploring</b></summary>
+
+- **Selenium** (test automation)
+- **TestRail** (test management)
+- **ISTQB Foundation** (certification in progress)
+- **Advanced API Testing**
+- **Performance Testing**
+- **CI/CD Integration**
+</details>
  
 <h2>🎥 YouTube Videos</h2>
 
