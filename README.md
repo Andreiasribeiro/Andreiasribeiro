@@ -19,7 +19,8 @@
 - **Real-World Scenario Testing**: Based testing on actual customer use cases and reported issues
 - **Root Cause Analysis**: Investigated underlying causes of defects to ensure comprehensive fixes
 - **Pre-release Verification**: Conducted final validation in staging environments
-- 
+
+  
 <h2>👩🏻‍💻🔎QA Projects</h2>
   
 - <b> E-Commerce Platform Sandbox (Exercise sample) </b>
