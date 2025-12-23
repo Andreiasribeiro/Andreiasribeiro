@@ -3,10 +3,6 @@
 
 <b> Here you'll find a collection of projects showcasing my journey in Software Quality Assurance and Web Development. My background in technical support and product design shaped my user-focused approach to QA, emphasising clarity, reproducibility, and impact. I'm passionate about ensuring software reliability and great user experiences through structured testing and continuous learning. I'm currently deepening my QA skills through the ISTQB CTFL certification and hands-on crowdtesting practice. Let's connect and collaborate toward building high-quality, user-centred software. </b>
 
-<h2>👩🏻‍💻🔎QA Testing Experience</h2>
-
-<h4> Defect Investigation & Validation Testing </h4> 
-
 ## QA Testing Experience
 
 ### Defect Investigation & Validation Testing
