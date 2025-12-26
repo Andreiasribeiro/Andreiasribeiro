@@ -21,7 +21,7 @@
 - **Pre-release Verification**: Conducted final validation in staging environments
 
   
-<h2>📖💬Learning Journey blog </h2> 
+<h2>📖💬Learning Journey Blog </h2> 
  
  - <b> Documenting my transition from Technical Support to QA Tester </b>
  [Thinking in Test](https://thinkingintests.blogspot.com/)
@@ -55,20 +55,24 @@
 
 <h2>🛡️ Courses & Certificates</h2>
  <h4> “Education is the passport to the future, for tomorrow belongs to those who prepare for it today.”
-Malcolm X </h4> 
+Malcolm X </h4>
 
-- [Specialise in QA Manual Testing with Live Project+AGILE+JIRA](https://www.udemy.com/course/specialize-in-software-testing-with-real-examples-agile-jira/?couponCode=OF83024E)
+
+ - [QA Manual Testing Specialisation - Live Project, Agile & Jira](https://www.udemy.com/course/specialize-in-software-testing-with-real-examples-agile-jira/?couponCode=OF83024E)
    <p> ✅ Complete knowledge of all aspects related to software testing. LIVE PROJECTS on requirements, test cases and defects using real-world tools</p> 
 
- - [Programming Foundations: Software Testing/QA](https://www.linkedin.com/learning/certificates/aad38d69425b3be61e2e95efbb9ffd979eb3a72031cb9c358818f2069b52730d)
-   <p> ✅ Software testing, Software Quality Assurance</p> 
+- [Agile Project Management with Jira Cloud: 1 Projects, Boards, and Issues](https://www.linkedin.com/learning/certificates/96abce3db3f78ef72874096472379f9b209a36e9126408ec3dfbd5cf7ee10244)
+   <p> ✅ Practical understanding of Agile project managementusing Jira Cloud, including project setup, boards, issues, and workflow management.</p> 
+
+- [Software Testing Foundations: Testing throughout the SDLC](https://www.linkedin.com/learning/certificates/ac6e135bf8edf26bc2d35124d11e90b50a0491cfbfb3295bdac99f8ee12a621b?trk=share_certificate)
+   <p> ✅ Foundational knowledge of Software testing across the SDLC, including test levels, testing types, and quality assurance principles.</p> 
+
+- [International Software Testing Qualifications Board (ISTQB) 4.0+ Foundation Cert Prep](https://www.linkedin.com/learning/certificates/ad084bcf45db06f1c2f4a120440ef7e36b5a7b5f1e344f1a28c8a2d949686b31)
+   <p> ✅ Preparation coursefor ISTQB Foundation Level (CTFL 4.0 ), covering software testing principles, test design techniques, and the testing lifecycle.</p> 
+      
+- [SQL for Testers](https://www.linkedin.com/learning/certificates/ec2dbe6dcce5f88059693f0f834301ae56d044775c0383e0b663f09a88a135ca) 
+   <p> ✅ Hands-on SQL for software testers, working with SELECT queries, filtering, joins, and validation to support testing activities. </p> 
    
-  [Learning Selenium](https://www.linkedin.com/learning/certificates/e544b06769442bb8c67d37033f640bacffdcc775b3b466d7dadceb3555ae2108?u=71624316) 
-   <p> ✅ Selenium, Test Autometion</p> 
-   
-  - [Microsoft Certified: Azure Fundamental](https://www.credly.com/badges/de961bad-6d55-4258-b0d3-a76d892e1ecb/linked_in_profile) 
-   <p> ✅ Azure, cloud Data, Cloud Networking, Cloud Security, clous Services, Cloud Storage, Virtualization</p> 
- 
   ➾ [See more](https://www.linkedin.com/in/andreiasalesribeiro/details/certifications/)
 
 <h2>🛠️ QA & Testing Tools</h2>
