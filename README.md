@@ -58,15 +58,17 @@
 Malcolm X </h4> 
 
 - [Specialise in QA Manual Testing with Live Project+AGILE+JIRA](https://www.udemy.com/course/specialize-in-software-testing-with-real-examples-agile-jira/?couponCode=OF83024E)
+   <p> ✅ Complete knowledge of all aspects related to software testing. LIVE PROJECTS on requirements, test cases and defects using real-world tools</p> 
+
+ - [Programming Foundations: Software Testing/QA](https://www.linkedin.com/learning/certificates/aad38d69425b3be61e2e95efbb9ffd979eb3a72031cb9c358818f2069b52730d)
+   <p> ✅ Software testing, Software Quality Assurance</p> 
+   
+  [Learning Selenium](https://www.linkedin.com/learning/certificates/e544b06769442bb8c67d37033f640bacffdcc775b3b466d7dadceb3555ae2108?u=71624316) 
+   <p> ✅ Selenium, Test Autometion</p> 
+   
+  - [Microsoft Certified: Azure Fundamental](https://www.credly.com/badges/de961bad-6d55-4258-b0d3-a76d892e1ecb/linked_in_profile) 
+   <p> ✅ Azure, cloud Data, Cloud Networking, Cloud Security, clous Services, Cloud Storage, Virtualization</p> 
  
- ✅ [Specialise in QA Manual Testing with Live Project+AGILE+JIRA](https://www.udemy.com/course/specialize-in-software-testing-with-real-examples-agile-jira/?couponCode=OF83024E) 
-     <p> Complete knowledge of all aspects related to software testing. LIVE PROJECTS on requirements, test cases and defects using real-world tools</p> 
- ✅ [Programming Foundations: Software Testing/QA](https://www.linkedin.com/learning/certificates/aad38d69425b3be61e2e95efbb9ffd979eb3a72031cb9c358818f2069b52730d) 
-     <p> Software testing, Software Quality Assurance</p> 
- ✅ [Learning Selenium](https://www.linkedin.com/learning/certificates/e544b06769442bb8c67d37033f640bacffdcc775b3b466d7dadceb3555ae2108?u=71624316) 
-     <p> Selenium, Test Autometion</p> 
- ✅ [Microsoft Certified: Azure Fundamental](https://www.credly.com/badges/de961bad-6d55-4258-b0d3-a76d892e1ecb/linked_in_profile) 
-     <p> Azure, cloud Data, Cloud Networking, Cloud Security, clous Services, Cloud Storage, Virtualization</p> 
   ➾ [See more](https://www.linkedin.com/in/andreiasalesribeiro/details/certifications/)
 
 <h2>🛠️ QA & Testing Tools</h2>
