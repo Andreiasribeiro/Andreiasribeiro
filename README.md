@@ -56,7 +56,10 @@
 <h2>🛡️ Courses & Certificates</h2>
  <h4> “Education is the passport to the future, for tomorrow belongs to those who prepare for it today.”
 Malcolm X </h4> 
- ✅ [Specialize in QA Manual Testing with Live Project+AGILE+JIRA](https://www.udemy.com/course/specialize-in-software-testing-with-real-examples-agile-jira/?couponCode=OF83024E) 
+
+- [Specialise in QA Manual Testing with Live Project+AGILE+JIRA](https://www.udemy.com/course/specialize-in-software-testing-with-real-examples-agile-jira/?couponCode=OF83024E)
+ 
+ ✅ [Specialise in QA Manual Testing with Live Project+AGILE+JIRA](https://www.udemy.com/course/specialize-in-software-testing-with-real-examples-agile-jira/?couponCode=OF83024E) 
      <p> Complete knowledge of all aspects related to software testing. LIVE PROJECTS on requirements, test cases and defects using real-world tools</p> 
  ✅ [Programming Foundations: Software Testing/QA](https://www.linkedin.com/learning/certificates/aad38d69425b3be61e2e95efbb9ffd979eb3a72031cb9c358818f2069b52730d) 
      <p> Software testing, Software Quality Assurance</p> 
