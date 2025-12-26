@@ -24,6 +24,9 @@
 <h2>📖Learning Journey blog </h2> 
 - Documenting my transition from Technical Support to QA Tester 
  [Thinking in Test](https://thinkingintests.blogspot.com/)
+
+ - <b> Documenting my transition from Technical Support to QA Tester </b>
+ [Thinking in Test](https://thinkingintests.blogspot.com/)
  
 <h2>👩🏻‍💻🔎QA Projects</h2>
   
