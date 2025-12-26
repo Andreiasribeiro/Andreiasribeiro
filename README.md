@@ -21,9 +21,9 @@
 - **Pre-release Verification**: Conducted final validation in staging environments
 
   
-<h2>📖Learning Journey blog </h2>
-Documenting my transition from Technical Support to QA Tester 
-[Thinking in Test]( https://thinkingintests.blogspot.com/) 
+<h2>📖Learning Journey blog </h2> 
+- <b> Documenting my transition from Technical Support to QA Tester  </b>
+- [Thinking in Test](https://thinkingintests.blogspot.com/)
  
 <h2>👩🏻‍💻🔎QA Projects</h2>
   
