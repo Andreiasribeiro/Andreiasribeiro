@@ -29,6 +29,7 @@
 <h2>👩🏻‍💻🔎QA Projects</h2>
 
 - **QA Mentorship Challenge**: Practical software testing exercises completed during Julio de Lima’s QA mentorship. Focus: Exploratory testing, bug investigation, and real-world QA practices.
+  <br>
   [Exploratory Testing Exercise](https://1drv.ms/b/c/cf17f682b336d7a9/IQDg999NWZqMRoB3fREW4M7sAWR219MXmM4QWTFZQjgHoE4?e=6P8wMZ)
  
  
