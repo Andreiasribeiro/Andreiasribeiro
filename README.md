@@ -35,13 +35,13 @@
  
 - **E-Commerce Platform Sandbox (Exercise sample)**: Hands-on QA exercise simulating testing of an e-commerce platform. Included test case design, functional and regression testing, bug reporting, and validation of fixes in a controlled environment.
   <br>
-- [Test Plan](https://docs.google.com/document/d/e/2PACX-1vTebQTl27p2UcU567RseQ-FLwhpUq6mMXiixfAevATqciuAerRx1IsxJkSGRyZbbc2xNz4QrlJQHMjA/pub)
+ [Test Plan](https://docs.google.com/document/d/e/2PACX-1vTebQTl27p2UcU567RseQ-FLwhpUq6mMXiixfAevATqciuAerRx1IsxJkSGRyZbbc2xNz4QrlJQHMjA/pub)
  
-- [Test Cases](https://docs.google.com/document/d/e/2PACX-1vREEL29ZiBMoT9iXeAdpNE9vlrPy5SvpWcmPeSk3JuRmQfzPrdjFo0RH27BbIqFBh9ZKvrfYS0LIWQD/pub)
+ [Test Cases](https://docs.google.com/document/d/e/2PACX-1vREEL29ZiBMoT9iXeAdpNE9vlrPy5SvpWcmPeSk3JuRmQfzPrdjFo0RH27BbIqFBh9ZKvrfYS0LIWQD/pub)
 
-- [Test Report](https://docs.google.com/document/d/e/2PACX-1vTWvtD-5blwjof_fKuaPQoHST0Vs2AeUO_3wLPe0GKgqVypQ2k9aAMNpn9yUmKc-8irfGK5TrgJuCLQ/pub)
+ [Test Report](https://docs.google.com/document/d/e/2PACX-1vTWvtD-5blwjof_fKuaPQoHST0Vs2AeUO_3wLPe0GKgqVypQ2k9aAMNpn9yUmKc-8irfGK5TrgJuCLQ/pub)
   
-- [Bug Report](https://docs.google.com/spreadsheets/d/1N0UNluPKfuGABzAiERWwAnW2OD1mKbVmq3zWGuOAJ8Q/edit?gid=0#gid=0)
+ [Bug Report](https://docs.google.com/spreadsheets/d/1N0UNluPKfuGABzAiERWwAnW2OD1mKbVmq3zWGuOAJ8Q/edit?gid=0#gid=0)
   
 <h2>👩🏻‍💻🌐Web Development Projects</h2>
 
