@@ -47,17 +47,21 @@
 <h2>👩🏻‍💻🌐Web Development Projects</h2>
 
 - <b> My Portfolio/Web App </b>
+   <br>
    [Web Apps and UI Projects](https://github.com/Andreiasribeiro/Portfolio)
  
 - <b> MERN Stack Web App  (MongoDB, Express, React and NodeJS ) </b>
+   <br>
    [JavaScript Garage Booking Web App](https://github.com/Andreiasribeiro/Garage_Booking_App)
 
 
 <h2>🎓 Education </h2>
 
   - <b> Higher Diploma in Computer Science </b>
+     <br>
     [CCT College Dublin - Ireland](https://www.linkedin.com/school/college-of-computer-training-cct-/posts/?feedView=all)
   -  <b> Bachelor's Degree in Industrial Design </b>
+     <br>
     [Federal University of Bahia- Brazil](https://www.linkedin.com/school/ufba/posts/?feedView=all)
 
 <h2>🛡️ Courses & Certificates</h2>
