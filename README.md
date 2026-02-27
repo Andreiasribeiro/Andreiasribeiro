@@ -47,18 +47,18 @@
 <h2>👩🏻‍💻🌐Web Development Projects</h2>
 
 - <b> My Portfolio/Web App </b>
-- [Web Apps and UI Projects](https://github.com/Andreiasribeiro/Portfolio)
+   [Web Apps and UI Projects](https://github.com/Andreiasribeiro/Portfolio)
  
 - <b> MERN Stack Web App  (MongoDB, Express, React and NodeJS ) </b>
-- [JavaScript Garage Booking Web App](https://github.com/Andreiasribeiro/Garage_Booking_App)
+   [JavaScript Garage Booking Web App](https://github.com/Andreiasribeiro/Garage_Booking_App)
 
 
 <h2>🎓 Education </h2>
 
   - <b> Higher Diploma in Computer Science </b>
-  - [CCT College Dublin - Ireland](https://www.linkedin.com/school/college-of-computer-training-cct-/posts/?feedView=all)
+    [CCT College Dublin - Ireland](https://www.linkedin.com/school/college-of-computer-training-cct-/posts/?feedView=all)
   -  <b> Bachelor's Degree in Industrial Design </b>
-  - [Federal University of Bahia- Brazil](https://www.linkedin.com/school/ufba/posts/?feedView=all)
+    [Federal University of Bahia- Brazil](https://www.linkedin.com/school/ufba/posts/?feedView=all)
 
 <h2>🛡️ Courses & Certificates</h2>
  <h4> “Education is the passport to the future, for tomorrow belongs to those who prepare for it today.”
