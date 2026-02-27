@@ -27,7 +27,11 @@
  [Thinking in Test](https://thinkingintests.blogspot.com/)
  
 <h2>👩🏻‍💻🔎QA Projects</h2>
-  
+
+- <b> QA Mentorship Challenge </b>
+- [Exploratory Testing Exercise](https://1drv.ms/b/c/cf17f682b336d7a9/IQDg999NWZqMRoB3fREW4M7sAWR219MXmM4QWTFZQjgHoE4?e=6P8wMZ)
+ 
+ 
 - <b> E-Commerce Platform Sandbox (Exercise sample) </b>
 - [Test Plan](https://docs.google.com/document/d/e/2PACX-1vTebQTl27p2UcU567RseQ-FLwhpUq6mMXiixfAevATqciuAerRx1IsxJkSGRyZbbc2xNz4QrlJQHMjA/pub)
  
