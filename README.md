@@ -32,9 +32,8 @@
   <br>
   [Exploratory Testing Exercise](https://1drv.ms/b/c/cf17f682b336d7a9/IQDg999NWZqMRoB3fREW4M7sAWR219MXmM4QWTFZQjgHoE4?e=6P8wMZ)
  
-   <br>
-
- **E-Commerce Platform Sandbox (Exercise sample)**: Hands-on QA exercise simulating testing of an e-commerce platform. Included test case design, functional and regression testing, bug reporting, and validation of fixes in a controlled environment.
+ 
+- **E-Commerce Platform Sandbox (Exercise sample)**: Hands-on QA exercise simulating testing of an e-commerce platform. Included test case design, functional and regression testing, bug reporting, and validation of fixes in a controlled environment.
   <br>
 - [Test Plan](https://docs.google.com/document/d/e/2PACX-1vTebQTl27p2UcU567RseQ-FLwhpUq6mMXiixfAevATqciuAerRx1IsxJkSGRyZbbc2xNz4QrlJQHMjA/pub)
  
