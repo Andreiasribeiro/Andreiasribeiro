@@ -44,7 +44,7 @@
   
     [Bug Report](https://docs.google.com/spreadsheets/d/1N0UNluPKfuGABzAiERWwAnW2OD1mKbVmq3zWGuOAJ8Q/edit?gid=0#gid=0)
 
-  - **Contact Management Tests (JavaScript project)**: Practical contact management project completed during QA Mentorship. Includes automated tests using **Mocha** and **Mochawesome**. Focus on contact list management, test automation, and QA best practices.   
+- **Contact Management Tests (JavaScript project)**: Practical contact management project completed during QA Mentorship. Includes automated tests using **Mocha** and **Mochawesome**. Focus on contact list management, test automation, and QA best practices.   
   <br>
   [View Exercise Document](https://github.com/Andreiasribeiro/contact-management-tests/blob/main/README.md)
  
