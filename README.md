@@ -9,22 +9,16 @@ Currently deepening my QA skills through the **ISTQB CTFL certification** and ha
 
 ---
 
-## 📌 QA Testing Experience
+## 📌 QA & Software Testing Experience
 
-### Defect Investigation & Validation Testing
-- **Regression Testing:** Verified patches and fixes didn't introduce new issues or break existing functionality
-- **Functional Validation:** Executed systematic testing of software solutions in controlled lab environments before customer release
-- **Bug Reproduction & Analysis:** Reproduced complex customer-reported issues, providing engineering with actionable bug reports
-
-### Quality Assurance Processes
-- **Defect Lifecycle Management:** Tracked issues from identification to resolution using JIRA
-- **Test Documentation:** Created detailed, reproducible test scenarios (steps, expected/actual results, logs)
-- **Quality Validation:** Ensured all fixes met quality standards before deployment
-
-### Customer-Centric Testing Approach
-- **Real-World Scenario Testing:** Based testing on actual customer use cases and reported issues
-- **Root Cause Analysis:** Investigated underlying causes of defects to ensure comprehensive fixes
-- **Pre-release Verification:** Conducted final validation in staging environments
+### Defect Investigation & Validation
+- Reproduced complex customer-reported issues, providing actionable bug reports; performed root cause analysis to ensure comprehensive fixes.
+### Regression & Functional Testingn
+- Verified patches and software updates didn’t introduce new issues; executed systematic tests in controlled and staging environments.
+### QA Processes & Documentation
+- Tracked defects through their lifecycle using JIRA; created detailed, reproducible test scenarios with steps, expected/actual results, and logs.
+### Customer-Centric Approach
+- Tested real-world scenarios based on customer use cases to ensure quality and reliability before release.
 
 ---
 
