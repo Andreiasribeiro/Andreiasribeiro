@@ -38,6 +38,9 @@ Currently deepening my QA skills through the **ISTQB CTFL certification** and ha
 - **Automated Contact Management Tests – JavaScript Project:** Practical contact management project with **automated tests using Mocha and Mochawesome**, completed during QA Mentorship.  
   [GitHub Repository](https://github.com/Andreiasribeiro/contact-management-tests)
 
+- **API Testing Exercise using Postman:** Detailed explanation of API testing practices applied during QA Mentorship, including Postman and Swagger usage, VADER heuristic application, and structured exploratory testing.  
+  [Read Article](https://thinkingintests.blogspot.com/2026/03/rest-api-testing-with-postman-practical.html)
+  
 ---
 
 ## 👩🏻‍💻 Web Development Projects
