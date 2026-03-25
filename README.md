@@ -39,7 +39,7 @@ Currently deepening my QA skills through the **ISTQB CTFL certification** and ha
   [GitHub Repository](https://github.com/Andreiasribeiro/contact-management-tests)
 
 - **API Testing Exercise using Postman:** Detailed explanation of API testing practices applied during QA Mentorship, including Postman and Swagger usage, VADER heuristic application, and structured exploratory testing.  
-  [Read Article](https://thinkingintests.blogspot.com/2026/03/rest-api-testing-with-postman-practical.html)
+  [View Exercise ](https://thinkingintests.blogspot.com/2026/03/rest-api-testing-with-postman-practical.html)
   
 ---
 
