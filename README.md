@@ -30,9 +30,9 @@ Currently deepening my QA skills through the **ISTQB CTFL certification** and ha
   [View SBTM Application Report](https://1drv.ms/b/c/cf17f682b336d7a9/IQDg999NWZqMRoB3fREW4M7sAWR219MXmM4QWTFZQjgHoE4?e=6P8wMZ)
 
 - **E-Commerce Platform Sandbox (Exercise sample):** Hands-on QA exercise simulating testing of an e-commerce platform. Included test case design, functional and regression testing, bug reporting, and validation of fixes.  
-  - [Test Plan](https://1drv.ms/b/c/cf17f682b336d7a9/IQCcFvDNwVDpRa0br-DYpvxuARSMc_rkbeGqfWD-LWwxMVw?e=abhHLd)  
-  - [Test Cases](https://1drv.ms/b/c/cf17f682b336d7a9/IQA_R0sIyIP3Qqrt26aPiIKPAapYlQpvl0wdXRCTgQgCZ9M?e=gCcYij)  
-  - [Test Report](https://1drv.ms/b/c/cf17f682b336d7a9/IQC1ybiBDg6ZS5DmN0ZasohNAfdnPjGMcrDzpis0tpq-iC4?e=63OiMB)  
+  - [Test Plan](https://1drv.ms/b/c/cf17f682b336d7a9/IQD0nRMORAkkR6n2tQ3Phb7mAa4tbFsubICqlAGfp4hFVgE?e=jPb64W)  
+  - [Test Cases](https://1drv.ms/b/c/cf17f682b336d7a9/IQDUS2axVzecQa3rbbwoppn2AXVYqNzI17bZaOGSwZtP14Y?e=1e0Amg)  
+  - [Test Report](https://1drv.ms/b/c/cf17f682b336d7a9/IQDYr0H4fxE8TJLk7RHV9O7fAXyBUuyIT5B85WL5c601RKg?e=egk1df)  
   - [Bug Report](https://1drv.ms/x/c/cf17f682b336d7a9/IQD3qSkjZrjmTY5KYcmgAQpBAdd2fyzNuq6due07E4gZ60k?e=jDUcKx)
 
 - **Automated Contact Management Tests – JavaScript Project:** Practical contact management project with **automated tests using Mocha and Mochawesome**, completed during QA Mentorship.  
