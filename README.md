@@ -30,10 +30,10 @@ Currently deepening my QA skills through the **ISTQB CTFL certification** and ha
   [View SBTM Application Report](https://1drv.ms/b/c/cf17f682b336d7a9/IQDg999NWZqMRoB3fREW4M7sAWR219MXmM4QWTFZQjgHoE4?e=6P8wMZ)
 
 - **E-Commerce Platform Sandbox (Exercise sample):** Hands-on QA exercise simulating testing of an e-commerce platform. Included test case design, functional and regression testing, bug reporting, and validation of fixes.  
-  - [Test Plan](https://docs.google.com/document/d/e/2PACX-1vTe...)  
-  - [Test Cases](https://docs.google.com/document/d/e/2PACX-1vRE...)  
-  - [Test Report](https://docs.google.com/document/d/e/2PACX-1vTW...)  
-  - [Bug Report](https://docs.google.com/spreadsheets/d/1N0UNlu...)
+  - [Test Plan](https://1drv.ms/b/c/cf17f682b336d7a9/IQCcFvDNwVDpRa0br-DYpvxuARSMc_rkbeGqfWD-LWwxMVw?e=abhHLd)  
+  - [Test Cases](https://1drv.ms/b/c/cf17f682b336d7a9/IQA_R0sIyIP3Qqrt26aPiIKPAapYlQpvl0wdXRCTgQgCZ9M?e=gCcYij)  
+  - [Test Report](https://1drv.ms/b/c/cf17f682b336d7a9/IQC1ybiBDg6ZS5DmN0ZasohNAfdnPjGMcrDzpis0tpq-iC4?e=63OiMB)  
+  - [Bug Report](https://1drv.ms/x/c/cf17f682b336d7a9/IQD3qSkjZrjmTY5KYcmgAQpBAdd2fyzNuq6due07E4gZ60k?e=jDUcKx)
 
 - **Automated Contact Management Tests – JavaScript Project:** Practical contact management project with **automated tests using Mocha and Mochawesome**, completed during QA Mentorship.  
   [GitHub Repository](https://github.com/Andreiasribeiro/contact-management-tests)
