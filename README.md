@@ -29,7 +29,7 @@ Currently deepening my QA skills through the **ISTQB CTFL certification** and ha
 - **QA Mentorship Challenge:** Practical software testing exercises completed during Julio de Lima’s QA mentorship. Focus: exploratory testing, bug investigation, and real-world QA practices.  
   [View SBTM Application Report](https://1drv.ms/b/c/cf17f682b336d7a9/IQDg999NWZqMRoB3fREW4M7sAWR219MXmM4QWTFZQjgHoE4?e=6P8wMZ)
 
-- **E-Commerce Platform Sandbox (Exercise sample):** Hands-on QA exercise simulating testing of an e-commerce platform. Included test case design, functional and regression testing, bug reporting, and validation of fixes.  
+- **E-Commerce Platform Sandbox (Exercise sample):** Hands-on QA project simulating the testing of an e-commerce platform in a sandbox environment. Designed and executed test cases, performed functional, regression, and exploratory testing, identified and reported defects, and contributed to release readiness assessment through a detailed test report.  
   - [Test Plan](https://1drv.ms/b/c/cf17f682b336d7a9/IQD0nRMORAkkR6n2tQ3Phb7mAa4tbFsubICqlAGfp4hFVgE?e=QgbPb4)  
   - [Test Cases](https://1drv.ms/b/c/cf17f682b336d7a9/IQDUS2axVzecQa3rbbwoppn2AXVYqNzI17bZaOGSwZtP14Y?e=6n3hex)  
   - [Test Report](https://1drv.ms/b/c/cf17f682b336d7a9/IQDYr0H4fxE8TJLk7RHV9O7fAXyBUuyIT5B85WL5c601RKg?e=UbquJw)  
