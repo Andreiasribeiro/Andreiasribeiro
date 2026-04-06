@@ -1,4 +1,4 @@
-# Hi, I'm Andreia! 👋
+# Hi, I'm Andréia! 👋
 
 **[QA Engineer and Web Development Enthusiast](https://www.linkedin.com/in/andreiasalesribeiro)** | **[Former Tech Support Engineer](https://www.linkedin.com/in/andreiasalesribeiro)**
 
@@ -26,9 +26,6 @@ Currently deepening my QA skills through the **ISTQB CTFL certification** and ha
 
 ## 👩🏻‍💻 QA Projects
 
-- **QA Mentorship Challenge:** Practical software testing exercises completed during Julio de Lima’s QA mentorship. Focus: exploratory testing, bug investigation, and real-world QA practices.  
-  [View SBTM Application Report](https://1drv.ms/b/c/cf17f682b336d7a9/IQDg999NWZqMRoB3fREW4M7sAWR219MXmM4QWTFZQjgHoE4?e=6P8wMZ)
-
 - **E-Commerce Platform Sandbox (Exercise sample):** Hands-on QA project simulating the testing of an e-commerce platform in a sandbox environment. Designed and executed test cases, performed functional, regression, and exploratory testing, identified and reported defects, and contributed to release readiness assessment through a detailed test report.  
   - [Test Plan](https://1drv.ms/b/c/cf17f682b336d7a9/IQD0nRMORAkkR6n2tQ3Phb7mAa4tbFsubICqlAGfp4hFVgE?e=QgbPb4)  
   - [Test Cases](https://1drv.ms/b/c/cf17f682b336d7a9/IQDUS2axVzecQa3rbbwoppn2AXVYqNzI17bZaOGSwZtP14Y?e=6n3hex)  
@@ -36,11 +33,16 @@ Currently deepening my QA skills through the **ISTQB CTFL certification** and ha
   - [Bug Reports](https://1drv.ms/b/c/cf17f682b336d7a9/IQDskKnpwdkgTK1OWDPS_J0VAYTRpLOy1z_hn17GLSWVmE0?e=I1eI83)
 
 - **Automated Contact Management Tests – JavaScript Project:** Practical contact management project with **automated tests using Mocha and Mochawesome**, completed during QA Mentorship.  
-  [GitHub Repository](https://github.com/Andreiasribeiro/contact-management-tests)
+  [View Repository](https://github.com/Andreiasribeiro/contact-management-tests)
 
-- **API Testing Exercise using Postman:** Detailed explanation of API testing practices applied during QA Mentorship, including Postman and Swagger usage, VADER heuristic application, and structured exploratory testing.  
-  [View Exercise ](https://thinkingintests.blogspot.com/2026/03/rest-api-testing-with-postman-practical.html)
+- **API Testing using Postman:** Detailed explanation of API testing practices applied during QA Mentorship, including Postman and Swagger usage, VADER heuristic application, and structured exploratory testing.  
+  [View Details ](https://thinkingintests.blogspot.com/2026/03/rest-api-testing-with-postman-practical.html)
+
+  - **REST API Test Automation with JavaScript:** Automated testing project covering authentication and transfer flows using Mocha, Chai, and Supertest, with HTML reporting via Mochawesome.
+  [View Repository ](https://github.com/Andreiasribeiro/bank-api-tests)
   
+  - **QA Mentorship Challenge:** Practical software testing exercises completed during Julio de Lima’s QA mentorship. Focus: exploratory testing, bug investigation, and real-world QA practices.  
+  [View SBTM Application Report](https://1drv.ms/b/c/cf17f682b336d7a9/IQDg999NWZqMRoB3fREW4M7sAWR219MXmM4QWTFZQjgHoE4?e=6P8wMZ)
 ---
 
 ## 👩🏻‍💻 Web Development Projects
