@@ -38,10 +38,10 @@ Currently deepening my QA skills through the **ISTQB CTFL certification** and ha
 - **API Testing using Postman:** Detailed explanation of API testing practices applied during QA Mentorship, including Postman and Swagger usage, VADER heuristic application, and structured exploratory testing.  
   [View Details ](https://thinkingintests.blogspot.com/2026/03/rest-api-testing-with-postman-practical.html)
 
-  - **REST API Test Automation with JavaScript:** Automated testing project covering authentication and transfer flows using Mocha, Chai, and Supertest, with HTML reporting via Mochawesome.
+- **REST API Test Automation with JavaScript:** Automated testing project covering authentication and transfer flows using Mocha, Chai, and Supertest, with HTML reporting via Mochawesome.
   [View Repository ](https://github.com/Andreiasribeiro/bank-api-tests)
   
-  - **QA Mentorship Challenge:** Practical software testing exercises completed during Julio de Lima’s QA mentorship. Focus: exploratory testing, bug investigation, and real-world QA practices.  
+- **QA Mentorship Challenge:** Practical software testing exercises completed during Julio de Lima’s QA mentorship. Focus: exploratory testing, bug investigation, and real-world QA practices.  
   [View SBTM Application Report](https://1drv.ms/b/c/cf17f682b336d7a9/IQDg999NWZqMRoB3fREW4M7sAWR219MXmM4QWTFZQjgHoE4?e=6P8wMZ)
 ---
 
