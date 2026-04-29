@@ -97,8 +97,9 @@ Currently deepening my QA skills through the **ISTQB CTFL certification** and ha
 
 ## 📚 Currently Exploring
 
-- **Selenium** (test automation)  
-- **TestRail** (test management)  
+- **Cypress** (test automation)  
+- **Chai** (assertion library for Node.js and browsers)
+- **Supertest** (HTTP assertions for API testing)
 - **ISTQB Foundation** (certification in progress)  
 
 ---
@@ -109,9 +110,9 @@ Currently deepening my QA skills through the **ISTQB CTFL certification** and ha
 - Communication and teamwork skills  
 - Critical thinking  
 - Ability to learn new tools, systems and processes quickly  
-- Problem solving and analytical skills  
+- Problem-solving and analytical skills  
 - Desire for self-development  
-- Well-organized  
+- Well-organised  
 - Customer focus and user empathy  
 
 ---
