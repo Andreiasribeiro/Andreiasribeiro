@@ -91,7 +91,7 @@ Currently deepening my QA skills through the **ISTQB CTFL certification** and ha
 - **API Testing:** REST API validation & integration testing  
 - **Web Technologies:** HTML, CSS, JavaScript  
 - **Testing Methodologies:** Agile (Scrum), Waterfall  
-- **Testing Types:** Functional, Regression, Smoke, Usability  
+- **Testing Types:** Functional, Regression, Exploratory, End-to-End, Web Application Testing, API Testing (Postman)
 
 ---
 
