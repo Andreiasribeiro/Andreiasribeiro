@@ -1,51 +1,56 @@
 # Hi, I'm Andréia! 👋
 
-**[QA Engineer and Web Development Enthusiast](https://www.linkedin.com/in/andreiasalesribeiro)** | **[Former Tech Support Engineer](https://www.linkedin.com/in/andreiasalesribeiro)**
+**[QA Tester | Manual & Automation | Cypress | JavaScript](https://www.linkedin.com/in/andreiasalesribeiro)**
 
-Here you'll find a collection of projects showcasing my journey in **Software Quality Assurance** and **Web Development**.  
-My background in technical support and product design shaped my user-focused approach to QA, emphasising clarity, reproducibility, and impact.  
-I'm passionate about ensuring software reliability and great user experiences through structured testing and continuous learning.  
-Currently deepening my QA skills through the **ISTQB CTFL certification** and hands-on crowdtesting practice.  
-
+Here you'll find a collection of projects showcasing my experience in **Software Quality Assurance** and **Web Development**.
+Currently working as a QA Tester in a MedTech environment, with hands-on experience in **manual, exploratory, functional, and E2E testing**, as well as test automation using **Cypress and JavaScript**.
+My background in technical support has strengthened my troubleshooting, analytical, and problem-solving skills, which I apply to software testing and defect investigation.
+I'm passionate about software quality, reliable user experiences, and continuous learning in **software testing and test automation**.
+ 
 ---
 
 ## 📌 QA & Software Testing Experience
 
-- **Defect Investigation & Validation:** Reproduced complex customer-reported issues, providing actionable bug reports; performed root cause analysis to ensure comprehensive fixes.
-- **Regression & Functional Testing:** Verified patches and software updates didn’t introduce new issues; executed systematic tests in controlled and staging environments
-- **QA Processes & Documentation:** Tracked defects through their lifecycle using JIRA; created detailed, reproducible test scenarios with steps, expected/actual results, and logs. 
-- **Customer-Centric Approach:** Tested real-world scenarios based on customer use cases to ensure quality and reliability before release. 
+- **Manual & Functional Testing:** Web and mobile application testing.
+- **E2E & Exploratory Testing:** Validating user journeys, integrations, and real-world scenarios.
+- **Test Automation:** Developing and maintaining automated E2E tests using **Cypress and JavaScript**.
+- **Defect Investigation & Validation:** Identifying, reproducing, documenting, and tracking defects using **Jira**.
+- **Test Data & Documentation:** Preparing test data and maintaining test cases and testing evidence.
+- **Mobile Testing:** Testing applications across **web, Android, and iOS**.
+- **Device Testing:** Firmware validation and connectivity testing for connected devices.
+- **Collaboration:** Working closely with developers and cross-functional teams to investigate issues and validate fixes.
 
 ---
 
 ## 📖 Learning Journey Blog
 
-- **Documenting my transition from Technical Support to QA Tester:** [Thinking in Test](https://thinkingintests.blogspot.com/)
+- **Documenting my learning and experiences in Software Testing and Quality Assurance:** [Thinking in Tests](https://thinkingintests.blogspot.com/)
 
 ---
 
 ## 👩🏻‍💻 QA Projects
 
-- **E-Commerce Platform Sandbox (Exercise sample):** Hands-on QA project simulating the testing of an e-commerce platform in a sandbox environment. Designed and executed test cases, performed functional, regression, and exploratory testing, identified and reported defects, and contributed to release readiness assessment through a detailed test report.  
-  - [Test Plan](https://1drv.ms/b/c/cf17f682b336d7a9/IQD0nRMORAkkR6n2tQ3Phb7mAa4tbFsubICqlAGfp4hFVgE?e=QgbPb4)  
-  - [Test Cases](https://1drv.ms/b/c/cf17f682b336d7a9/IQDUS2axVzecQa3rbbwoppn2AXVYqNzI17bZaOGSwZtP14Y?e=6n3hex)  
-  - [Test Report](https://1drv.ms/b/c/cf17f682b336d7a9/IQDYr0H4fxE8TJLk7RHV9O7fAXyBUuyIT5B85WL5c601RKg?e=UbquJw)  
-  - [Bug Reports](https://1drv.ms/b/c/cf17f682b336d7a9/IQDskKnpwdkgTK1OWDPS_J0VAYTRpLOy1z_hn17GLSWVmE0?e=I1eI83)
-    
-- **Bank Web Tests – Cypress End-to-End Automation:** Automated login and money transfer flows for a bank web application using Cypress and JavaScript. Includes custom commands, fixtures, and HTML test reports with screenshots and videos.                                  
+- **Bank Web Tests – Cypress End-to-End Automation:** Automated login and money transfer flows for a banking web application using **Cypress and JavaScript**. Includes custom commands, fixtures, and HTML test reports with screenshots and videos.
   [View Repository](https://github.com/Andreiasribeiro/bank-web-tests)
-  
-- **Automated Contact Management Tests – JavaScript Project:** Practical contact management project with automated tests using Mocha and Mochawesome, completed during QA Mentorship.                                           
+
+- **REST API Test Automation with JavaScript:** Automated API testing covering authentication and transfer flows using **Mocha, Chai, and Supertest**, with HTML reporting via Mochawesome.
+  [View Repository](https://github.com/Andreiasribeiro/bank-api-tests)
+
+- **API Testing using Postman:** Practical API testing project covering **Postman, Swagger, REST API validation, and structured exploratory testing**.
+  [View Details](https://thinkingintests.blogspot.com/2026/03/rest-api-testing-with-postman-practical.html)
+
+- **E-Commerce Platform Sandbox (Exercise Sample):** Hands-on QA project covering **functional, regression, and exploratory testing**, including test case design, defect reporting, test documentation, and release readiness assessment.
+  - [Test Plan](https://1drv.ms/b/c/cf17f682b336d7a9/IQD0nRMORAkkR6n2tQ3Phb7mAa4tbFsubICqlAGfp4hFVgE?e=QgbPb4)
+  - [Test Cases](https://1drv.ms/b/c/cf17f682b336d7a9/IQDUS2axVzecQa3rbbwoppn2AXVYqNzI17bZaOGSwZtP14Y?e=6n3hex)
+  - [Test Report](https://1drv.ms/b/c/cf17f682b336d7a9/IQDYr0H4fxE8TJLk7RHV9O7fAXyBUuyIT5B85WL5c601RKg?e=UbquJw)
+  - [Bug Reports](https://1drv.ms/b/c/cf17f682b336d7a9/IQDskKnpwdkgTK1OWDPS_J0VAYTRpLOy1z_hn17GLSWVmE0?e=I1eI83)
+
+- **Automated Contact Management Tests – JavaScript:** Automated testing project using **Mocha and Mochawesome**, completed during QA Mentorship.
   [View Repository](https://github.com/Andreiasribeiro/contact-management-tests)
 
-- **API Testing using Postman:** Detailed explanation of API testing practices applied during QA Mentorship, including Postman and Swagger usage, VADER heuristic application, and structured exploratory testing.                                               
-[View Details ](https://thinkingintests.blogspot.com/2026/03/rest-api-testing-with-postman-practical.html)
+- **QA Mentorship Challenge:** Practical software testing exercises focused on **exploratory testing, defect investigation, and real-world QA practices**.
+  [View SBTM Application Report](https://1drv.ms/b/c/cf17f682b336d7a9/IQDg999NWZqMRoB3fREW4M7sAWR219MXmM4QWTFZQjgHoE4?e=6P8wMZ)
 
-- **REST API Test Automation with JavaScript:** Automated testing project covering authentication and transfer flows using Mocha, Chai, and Supertest, with HTML reporting via Mochawesome.                                                           
-[View Repository ](https://github.com/Andreiasribeiro/bank-api-tests)
-  
-- **QA Mentorship Challenge:** Practical software testing exercises completed during Julio de Lima’s QA mentorship. Focus: exploratory testing, bug investigation, and real-world QA practices.                                                                      
-[View SBTM Application Report](https://1drv.ms/b/c/cf17f682b336d7a9/IQDg999NWZqMRoB3fREW4M7sAWR219MXmM4QWTFZQjgHoE4?e=6P8wMZ)
 ---
 
 ## 👩🏻‍💻 Web Development Projects
@@ -64,62 +69,37 @@ Currently deepening my QA skills through the **ISTQB CTFL certification** and ha
 
 ## 🛡️ Courses & Certificates
 
-- [QA Manual Testing Specialisation – Live Project, Agile & Jira](https://www.udemy.com/course/specialize-in-software-testing-with-real-examples-agile-jira/?couponCode=OF83024E) ✅ Complete knowledge of all aspects related to software testing.  
-- [Agile Project Management with Jira Cloud](https://www.linkedin.com/learning/certificates/96abce3db3f78ef72874096472379f9b209a36e9126408ec3dfbd5cf7ee10244) ✅ Practical understanding of Agile project management.  
-- [Software Testing Foundations: Testing throughout the SDLC](https://www.linkedin.com/learning/certificates/ac6e135bf8edf26bc2d35124d11e90b50a0491cfbfb3295bdac99f8ee12a621b?trk=share_certificate) ✅ Foundational knowledge of Software testing across the SDLC.  
-- [ISTQB 4.0+ Foundation Cert Prep](https://www.linkedin.com/learning/certificates/ad084bcf45db06f1c2f4a120440ef7e36b5a7b5f1e344f1a28c8a2d949686b31) ✅ Preparation course for ISTQB Foundation Level.  
-- [SQL for Testers](https://www.linkedin.com/learning/certificates/ec2dbe6dcce5f88059693f0f834301ae56d044775c0383e0b663f09a88a135ca) ✅ Hands-on SQL for software testers.  
+- [GEN-AI for Productivity in Software Testing](https://hotmart.com/pt-br/club/mentoria-de-testes-de-software/product/6516905) ✅ Practical application of Generative AI to support software testing and QA productivity.
+- [LambdaTest Software Testing Professional Certificate](https://www.linkedin.com/learning/certificates/287ca069a517271c36e27ee60c488e3d731727f21de16ad128084389e784a6c2/) ✅ Software testing, test cases, and quality assurance practices.
+- [Software Testing Foundations: Testing throughout the SDLC](https://www.linkedin.com/learning/certificates/ac6e135bf8edf26bc2d35124d11e90b50a0491cfbfb3295bdac99f8ee12a621b/) ✅ Foundational knowledge of software testing throughout the SDLC.
+- [Software Testing: Tools](https://www.linkedin.com/learning/certificates/bf6c2eeec352e55f39fd3c0c595cea88a5d4075203facb87c2131921de6aadd8/) ✅ Practical knowledge of software testing tools and techniques.
+- [SQL for Testers](https://www.linkedin.com/learning/certificates/ec2dbe6dcce5f88059693f0f834301ae56d044775c0383e0b663f09a88a135ca/) ✅ Hands-on SQL skills applied to software testing and data validation.
 
 ➾ [See more](https://www.linkedin.com/in/andreiasalesribeiro/details/certifications/)
-
 ---
 
 ## 🛠️ QA & Testing Tools
 
-- **Test Management:** Jira  
-- **API Testing:** Postman  
-- **Version Control:** GitHub  
-- **Database:** SQL (MySQL)  
-- **Browser DevTools**  
-- **IDE:** Visual Studio Code  
-
----
-
-## 🪛 Technical Skills
-
-- **Test Documentation:** Test cases, bug reports, QA plans  
-- **API Testing:** REST API validation & integration testing  
-- **Web Technologies:** HTML, CSS, JavaScript  
-- **Testing Methodologies:** Agile (Scrum), Waterfall  
-- **Testing Types:** Functional, Regression, Exploratory, End-to-End, Web Application Testing, API Testing (Postman)
-
----
-
-## 📚 Currently Exploring
-
-- **Cypress** (test automation)  
-- **Chai** (assertion library for Node.js and browsers)
-- **Supertest** (HTTP assertions for API testing)
-- **ISTQB Foundation** (certification in progress)  
+- **Test Management:** Jira
+- **Test Automation:** Cypress, JavaScript
+- **API Testing:** Postman
+- **Version Control:** Git, GitHub, Bitbucket
+- **Database:** SQL (MySQL)
+- **AI-Assisted Development & Testing:** Cursor AI
+- **Browser Tools:** Chrome DevTools
+- **IDE:** Cursor, Visual Studio Code
 
 ---
 
 ## 💎 Soft Skills
 
-- Precision and attention to quality  
-- Communication and teamwork skills  
-- Critical thinking  
-- Ability to learn new tools, systems and processes quickly  
-- Problem-solving and analytical skills  
-- Desire for self-development  
-- Well-organised  
-- Customer focus and user empathy  
-
----
-
-## 🎥 YouTube Videos
-
-- [Garage Booking Web App](https://www.youtube.com/watch?v=USOe2FrA8Bc)
+- Analytical and critical thinking
+- Problem-solving and troubleshooting
+- Attention to detail
+- Communication and teamwork
+- User-focused mindset
+- Continuous learning
+- Adaptability
 
 ---
 
